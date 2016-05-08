@@ -1,14 +1,19 @@
 # SmartLoc-Premium
 
-### 	Purpose: 
+### Purpose: 
 		This html file is called SmartLoc Premium. 
 		It will take user inputs such as time of day, temperature, 
 		rainfall levels and solar exposure to predict 
 		Pedestrian Count per Hour at different locations in Melbourne CBD.								
              						
 		SmartLoc Premium is optimised to run with Google Chrome.	
-														            
-###		Date:
+
+### How to run:
+		1. Download the whole directory
+		2. Open SmartLoc_Premium.html with Google Chrome
+		3. Have fun!
+		
+###	Date:
 		April 29, 2016							            
 					                                  				
 ### Notes:
