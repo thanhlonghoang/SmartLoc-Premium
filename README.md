@@ -10,7 +10,7 @@
 
 ### How to run:
 		1. Download the whole directory
-		2. Open SmartLoc_Premium.html with Google Chrome
+		2. Open index.html with Google Chrome
 		3. Have fun!
 		
 ###	Date:
